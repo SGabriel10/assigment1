@@ -74,3 +74,16 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+.modal-body{
+    background-color:$lt-gray;
+}
+.modal-header{
+    background-color:$background-dark;
+    h4{
+        color: white;
+    }
+    
+    button{
+        color: white;
+    }
+}
